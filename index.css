@@ -124,5 +124,12 @@ hr {
     #about {
         padding-top: 2vh;
         padding-bottom: 15vh;
+        text-align: center;
+    }
+    #featured {
+        text-align: center;
+    }
+    #menu {
+        text-align: center;
     }
 }
