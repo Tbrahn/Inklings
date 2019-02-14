@@ -1,0 +1,109 @@
+body {
+    background-color: #f5d6ba;
+    color: black;
+}
+
+/*Navbar and logo*/
+
+.navbar {
+    position: sticky;
+    font-size: 1.5rem;
+}
+
+#logo {
+    height: 10vh;
+    width: auto;
+}
+
+.navbar-brand {
+    padding-left: 7%;
+}
+
+.navbar-light .nav-item .nav-link{
+    color: black;
+}
+
+.navbar-light .nav-item:hover .nav-link {
+    color: #a40e4c;
+}
+
+.navbar-toggler-icon {
+    color: black;
+}
+/*Sections */
+
+h1 {
+    font-size: 3.75rem;
+    font-weight: 700;
+}
+
+ul {
+    list-style-type: none;
+}
+#hours-section {
+    margin-top: 10vh;
+}
+
+#hours-ul {
+    padding-top: 20px;
+}
+
+#hours {
+    text-align: center;
+    font-weight: 700;
+}
+
+.hours-item {
+    text-align: center;
+}
+
+
+#about {
+    padding-top: 10vh;
+    padding-bottom: 15vh;
+}
+
+#featured {
+    padding-top: 10vh;
+    padding-bottom: 15vh;
+}
+
+
+
+.card-img-top {
+    object-fit: cover;
+    height: 60vh;
+}
+
+#menu {
+    padding-top: 10vh;
+    padding-bottom: 15vh;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+/*Circular Images */
+
+.crop {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.img {
+    display: inline;
+    margin: 0 -55px;
+    height: 100%;
+    width: auto;
+}
+
