@@ -112,8 +112,11 @@ hr {
     #logo {
         height: 16vh;
         width: auto;
-        padding: 0;
+        padding-left: 0;
         margin-left: 0;
+    }
+    .navbar {
+        padding-left: 0;
     }
     .navbar-brand {
         padding-left: 0%;
