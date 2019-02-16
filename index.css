@@ -42,19 +42,10 @@ ul {
     list-style-type: none;
 }
 #hours-section {
-    margin-top: 10vh;
+    margin: 10vh 25% 1vh 25%;
 }
 
-#hours-ul {
-    padding-top: 20px;
-}
-
-#hours {
-    text-align: center;
-    font-weight: 700;
-}
-
-.hours-item {
+#hour {
     text-align: center;
 }
 
