@@ -1,6 +1,8 @@
 body {
     background-color: #f5d6ba;
     color: black;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 /*Navbar and logo*/
@@ -8,7 +10,6 @@ body {
 .navbar {
     position: sticky;
     font-size: 1.5rem;
-    /*height: 14vh; */
 }
 
 #logo {
@@ -65,6 +66,10 @@ ul {
 .card-img-top {
     object-fit: cover;
     height: 60vh;
+}
+
+.card-title {
+    font-weight: 700;
 }
 
 #menu {
