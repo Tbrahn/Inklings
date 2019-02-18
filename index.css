@@ -84,7 +84,7 @@ ul {
     padding: 5%;
 }
 
-.menu-ul li h2 {
+.head {
     text-align: center;
     font-weight: 700;
 }
@@ -98,7 +98,6 @@ ul {
     display: flex;
     justify-content: space-between;
 }
-
 
 hr {
     border: 0;
@@ -136,6 +135,10 @@ hr {
     }
     .navbar {
         padding-left: 0;
+    }
+
+    #navbar{
+        top: 0;
     }
     .navbar-brand {
         padding-left: 0%;
