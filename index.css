@@ -61,8 +61,6 @@ ul {
     padding-bottom: 15vh;
 }
 
-
-
 .card-img-top {
     object-fit: cover;
     height: 60vh;
@@ -75,6 +73,14 @@ ul {
 #menu {
     padding-top: 10vh;
     padding-bottom: 15vh;
+}
+
+#menu-list {
+    background-color: white;
+}
+
+.menu-ul {
+    text-align: center;
 }
 
 hr {
