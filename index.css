@@ -153,6 +153,7 @@ hr {
     }
     .navbar {
         padding-left: 0;
+        position: static;
     }
 
     #navbar{
