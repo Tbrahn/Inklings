@@ -1,15 +1,17 @@
 body {
-    background-color: #f5d6ba;
+    background-color: #5F6062;
     color: black;
     font-family: 'Raleway', sans-serif;
 
 }
+
 
 /*Navbar and logo*/
 
 .navbar {
     position: sticky;
     font-size: 1.5rem;
+    background: rgba(255, 255, 255, 0.9);
 }
 
 #logo {
@@ -35,8 +37,17 @@ body {
 /*Sections */
 
 h1 {
-    font-size: 3.75rem;
+    font-size: 3.9rem;
     font-weight: 700;
+    color: rgba(255, 255, 255, 0.9);
+    text-shadow: .8px .8px #000000;
+}
+
+p {
+    font-size: 1.25rem;
+    color: rgba(255, 255, 255, 0.9);
+    text-shadow: .5px .5px #000000;
+
 }
 
 ul {
