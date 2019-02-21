@@ -162,6 +162,12 @@ hr {
     .navbar-brand {
         padding-left: 0%;
     }
+
+    .col-12 {
+        padding-top: 7%;
+        padding-bottom: 7%;
+    }
+
     #about {
         padding-top: 2vh;
         padding-bottom: 15vh;
