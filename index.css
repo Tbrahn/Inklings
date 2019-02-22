@@ -53,7 +53,7 @@ body {
 ul {
     list-style-type: none;
 }
-#hours-section {
+.hours-section {
     margin: 10vh 25% 1vh 25%;
 }
 
