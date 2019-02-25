@@ -86,6 +86,11 @@ ul {
     color: black;
     text-shadow: 0px 0px #000000;
     font-size: 1.1rem;
+    margin: 15px ;
+}
+
+.btn-secondary{
+    color: white;
 }
 
 #menu {
