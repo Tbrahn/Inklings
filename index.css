@@ -89,6 +89,10 @@ ul {
     margin: 15px ;
 }
 
+.socialMedia {
+    width: 180px;
+}
+
 .btn-secondary{
     color: white;
 }
