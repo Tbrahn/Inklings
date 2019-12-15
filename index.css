@@ -54,11 +54,12 @@ ul {
     list-style-type: none;
 }
 .hours-section {
-    margin: 10vh 25% 1vh 25%;
+    margin: 10vh 15% 1vh 15%;
 }
 
 #hour {
     text-align: center;
+    padding: 2vh 0px;
 }
 
 
@@ -187,11 +188,5 @@ hr {
     }
     #menu {
         text-align: center;
-    }
-    .hours-section {
-        margin: 10vh 10% 10vh 10%;
-    }
-    #hour.card-body{
-        margin:0px;
     }
 }
