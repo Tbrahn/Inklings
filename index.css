@@ -93,8 +93,8 @@ ul {
     width: 180px;
 }
 
-.btn-secondary{
-    color: white;
+.btn-primary{
+    margin-bottom: 2vh;
 }
 
 #menu {
@@ -187,5 +187,8 @@ hr {
     }
     #menu {
         text-align: center;
+    }
+    .hours-section {
+        margin: 10vh 15% 10vh 15%;
     }
 }
