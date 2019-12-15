@@ -191,4 +191,7 @@ hr {
     .hours-section {
         margin: 10vh 10% 10vh 10%;
     }
+    #hour.card-body{
+        margin:0px;
+    }
 }
